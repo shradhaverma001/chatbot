@@ -40,6 +40,8 @@
 - [New Delhi](city)
 - [Auckland](city)
 - [Oslo](city)
+- [Sofia](city)
+- [Mumbai](city)
 
 ## intent:thanks
 - thank you
