@@ -13,6 +13,7 @@
   - utter_ask_location
 * city_info
   - utter_finding_time_zone
+  - action_show_time_zone
 * thanks
   - utter_you_are_welcome
   - utter_goodbye
@@ -24,6 +25,7 @@
   - utter_ask_location
 * city_info
   - utter_finding_time_zone
+  - action_show_time_zone
 * thanks
   - utter_you_are_welcome
   - utter_goodbye
